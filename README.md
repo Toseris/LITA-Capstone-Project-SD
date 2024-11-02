@@ -109,15 +109,17 @@ TOTAL REVENUE PER REGION
 |South	 |927,820      |
 |East	 |485,925      |
 |West	 |300,345      |
-|TOTAL REVENUE| 2,101,090| 
+|TOTAL REVENUE| 2,101,090|
 
 ### Data Visualization
 
+![sql](https://github.com/user-attachments/assets/e8d30078-435b-472a-b1b1-d8e443994557)
 
 
+![Powerbi SD](https://github.com/user-attachments/assets/4c19cd06-e7ab-4c76-b1c6-a542b2f29fa7)
 
 
-
+ ![Sales data](https://github.com/user-attachments/assets/b8c0aed6-84ef-4d05-b878-00feb563cf1d)
 
 
 
