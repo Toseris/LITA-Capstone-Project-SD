@@ -1,4 +1,5 @@
 # LITA-Capstone-Project-SD
+This project was created to help businesses understand their sales performance, identify trends, and make data-driven decisions. By analyzing historical sales data, users can gain insights into customer behavior, seasonal trends, and revenue growth opportunities.
 
 ### Project Title : Sales Data Analysis
  [Project Overview](#project-overview)
