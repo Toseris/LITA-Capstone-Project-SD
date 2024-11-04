@@ -120,6 +120,14 @@ TOTAL REVENUE PER REGION
 
 
  ![Sales data](https://github.com/user-attachments/assets/b8c0aed6-84ef-4d05-b878-00feb563cf1d)
+![SD 1](https://github.com/user-attachments/assets/d5320772-2f7a-475a-9dc2-05d759d7981e)
+![SD 2](https://github.com/user-attachments/assets/b226df2f-ad23-494e-878d-2630fc92076b)
+![SD 3](https://github.com/user-attachments/assets/ea434ea1-bc88-4e4a-be27-31c4cbcb2be2)
+![SD 4](https://github.com/user-attachments/assets/53d1d708-7bee-40d9-a990-5c9852c552a0)
+![SD 5](https://github.com/user-attachments/assets/d17fbe74-a8f4-44e9-a77e-6e14592a47ff)
+![SD 6](https://github.com/user-attachments/assets/3c8118e6-f017-426a-87a7-fd8fadb99a00)
+![SD 7](https://github.com/user-attachments/assets/a37d1ffa-dccf-45fa-b687-468051f26f7a)
+![SD 8](https://github.com/user-attachments/assets/1577b438-c66c-44fc-8d9c-f718501c4e6b)
 
 
 
